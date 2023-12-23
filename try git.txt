@@ -1,2 +1,6 @@
                                                       Welcome Github
+<<<<<<< HEAD
 hi hi
+=======
+hi
+>>>>>>> 26b110d8cfb7888bcddde2b9e863e68cf0c6c94c
